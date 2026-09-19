@@ -1,0 +1,3 @@
+# Artefatos temporários gerados pelos testes/playwright
+.playwright/
+.playwright-mcp/
